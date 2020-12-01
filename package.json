@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/NikolaReactiveDev/clean-node-api/issues"
   },
-  "homepage": "https://github.com/NikolaReactiveDev/clean-node-api#readme"
+  "homepage": "https://github.com/NikolaReactiveDev/clean-node-api#readme",
+  "devDependencies": {}
 }
